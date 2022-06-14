@@ -73,9 +73,3 @@ SPA에서는 데이터가 없는 화면이 먼저 동기적으로 렌더링 된 
 > https://velog.io/@gwanuuoo/SPA%EB%8A%94-%EA%B8%B0%EC%A1%B4-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%99%80-%EC%B0%A8%EC%9D%B4
 
 > https://velog.io/@ken1204/SPA%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC
-
-## 기타
-
-- 앞단에서 Nginx를 통해서 static 파일을 처리하고 필요한 데이터는 뒤에서 nodejs 등으로 처리하는 방식? 이게 뭘까?
-- 검색에 노출되어야 하는 페이지(랜딩페이지 등)을 SSR 방식으로 두고, 데이터를 통해서 구동되는 부분은 SPA 로 운용하는 방법??
-- React.lazy / Suspense -> 공부해서 적절하게 적용해보자. 굳이 필요해서라기 보다는, 어떤 컨셉을 위해서 필요한 기능인지 알아보기 위해서
