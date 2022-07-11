@@ -11,3 +11,4 @@
 - 검색에 노출되어야 하는 페이지(랜딩페이지 등)을 SSR 방식으로 두고, 데이터를 통해서 구동되는 부분은 SPA 로 운용하는 방법??
 - React.lazy / Suspense -> 공부해서 적절하게 적용해보자. 굳이 필요해서라기 보다는, 어떤 컨셉을 위해서 필요한 기능인지 알아보기 위해서
 - 자동완성시 input 배경화면 색상 변경되는 이슈
+- https://walkinpcm.blogspot.com/2018/04/aws-3-aws-amplify-s3.html
